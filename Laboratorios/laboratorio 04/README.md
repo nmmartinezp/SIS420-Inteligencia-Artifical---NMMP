@@ -2,6 +2,6 @@
 
 ## Contexto del dataset
 
-Este conjunto de datos se ha creado para simular el proceso de toma de decisiones de admisión en las universidades. Los comités de admisión suelen evaluar múltiples factores antes de decidir si aceptan o rechazan a un solicitante.
+El conjunto de datos simula datos demográficos, hábitos de vida, mediciones clínicas, resultados de laboratorio y factores de riesgo cardiovascular realistas de los pacientes. Es adecuado para fines educativos, de investigación y de modelado predictivo.
 
-**Link de dataset:** https://www.kaggle.com/datasets/rohit2552/student-admission-prediction/#1
+**Link de dataset:** https://www.kaggle.com/datasets/mobeenfatimah/cardiovascular-disease-risk-prediction-dataset#1
