@@ -5,6 +5,8 @@
 
 ## Laboratorios
 
+- [Laboratorio 1 - Introducción al Machine Learning](https://github.com/nmmartinezp/SIS420-Inteligencia-Artifical---NMMP/tree/master/Laboratorios/Laboratorio%2001)
+
 - [Laboratorio 2 - Regresión Lineal Multiple](https://github.com/nmmartinezp/SIS420-Inteligencia-Artifical---NMMP/tree/master/Laboratorios/Laboratorio%2002)
 
 - [Laboratorio 3 - Regresión Polinomial](https://github.com/nmmartinezp/SIS420-Inteligencia-Artifical---NMMP/tree/master/Laboratorios/Laboratorio%2003)
